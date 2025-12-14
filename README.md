@@ -26,6 +26,6 @@ Analyze gym customer data to identify churn patterns and retention opportunities
 - Overall churn rate indicates scope for retention strategies
 
 ## Files
-- `GYM_Members_RAW-Dataset.xlsx` – Raw Gym Dataset
+- `GYM_Members_RAW-Dataset.csv` – Raw Gym Dataset
 - `Gym hurn Analysis.xlsx` – Interactive Excel dashboard  
 - `Gym Member Churn Analysis Dashboard.pdf` – Dashboard snapshot for quick view
